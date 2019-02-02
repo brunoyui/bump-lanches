@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "bumpLanches",
+    "packageName": "com.bump.lanches",
+    "packageFolder": "com/bump/lanches",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "Y2ZiOWJjZGY4NWIyMDMyZDQ5MmUxMmFlMThhMGU2ZTFiNjg2ZDA2MmQ4NmRlMjlmZjUxMWQ0NGNiZTkwZjEzYTg3MmNhYTkxOGViMGU5MGViYThiNDBmMDdmYzUyMDRkMmVkMTk0Y2NmMDNjNzc4MzIxZGRlYzQ4YmFmZDlhMzk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "brunoyui",
+  "repository-name": "bump-lanches"
+}
